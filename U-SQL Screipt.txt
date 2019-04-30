@@ -1,0 +1,9 @@
+@data = EXTEACT a string
+FROM "/VENDOR/2008-01.txt"
+USING Extractors.Text();
+
+
+
+OUTOUT @data
+TO "/Results/results.txt"
+USING Outputters.Text();

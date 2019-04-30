@@ -1,0 +1,7 @@
+#vendoe Informaion
+#fields: data vendor customer amount 
+01-01-2008 V1 C2 50
+01-01-2008 V1 C1 70
+01-01-2008 V1 C3 60
+01-01-2008 V2 C2 70
+01-01-2008 V1 C3 60
